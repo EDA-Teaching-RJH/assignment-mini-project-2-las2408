@@ -6,7 +6,7 @@ from id_checker import is_valid_id
 def main():
     print("--- Starship Crew Management System ---")
     
-    #A simple list to hold the crew
+    #A list to hold the crew
     fleet = []
 
     while True:
